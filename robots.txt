@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oozohlaiz.92-prozent-chaos.de/sitemap.xml
